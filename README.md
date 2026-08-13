@@ -26,7 +26,7 @@ Create schemas and tables
 
 ![alt text](/images/BTP_2_HA_1.png?raw=true)
 
-- **Integration Service**
+- **Integration Suite**
   
 ## 2.2. Cloud Foundry / Spaces: 
 Create space for some services/applications
