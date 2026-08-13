@@ -14,7 +14,7 @@ BTP SAP's cloud platform for integrating systems, managing data, and building AI
 
 ## 2. Subaccount
 
-Create Subtractions - Services/Applications
+Create Subscription - Services/Applications
 
 ![alt text](/images/BTP_2.png?raw=true)
 
