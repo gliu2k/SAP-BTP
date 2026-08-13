@@ -4,7 +4,7 @@ BTP SAP's cloud platform for integrating systems, managing data, and building AI
 <h1> Cockpit</h1>
 
 ## 1. Global Account
-- **Account Explorer:** Create **Subaccount** (**Important**)
+- **Account Explorer:** Create **Subaccount (Important!)**
 - **Boosters**: Packages to create service and setup environment easily. But you can create service in Subscriptions as well.
 - **Resource Provider:** AWS/Azure
 - **System Landscape:** formations(DEV/QAS/PRD) and systems 
